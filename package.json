@@ -2,7 +2,10 @@
   "name": "fikriyuwi-npm",
   "version": "1.0.0",
   "description": "package npm learning by me with codepolitan",
-  "main": "index.js",
+  "exports": {
+    ".":"./index.js",
+    "./write":"./write.js"
+  },
   "type": "module",
   "scripts": {
     "run": "node index.js",
