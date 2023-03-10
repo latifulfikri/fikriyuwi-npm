@@ -1,3 +1,4 @@
 import { writeToFile } from "./write.js";
 
-writeToFile("hello.log","Fikri Yuwi");
+console.log("Project npm fikriyuwi-npm");
+writeToFile("result-script.log","This log is result from script run prestart, start, and poststart");

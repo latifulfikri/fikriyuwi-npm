@@ -5,6 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "run": "node index.js",
+    "prestart": "echo 'project is about to starting'",
+    "start": "node index.js",
+    "poststart": "echo 'project run done'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
