@@ -30,7 +30,8 @@
   },
   "homepage": "https://github.com/latifulfikri/fikriyuwi-npm#readme",
   "dependencies": {
-    "lodash":"~4.17.19"
+    "lodash":"~4.17.19",
+    "fikriyuwi-first":"x"
   },
   "devDependencies": {
     "moment":"2.29.4"
