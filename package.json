@@ -1,0 +1,24 @@
+{
+  "name": "fikriyuwi-npm",
+  "version": "1.0.0",
+  "description": "package npm learning by me with codepolitan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latifulfikri/fikriyuwi-npm.git"
+  },
+  "keywords": [
+    "fikriyuwi",
+    "fikriyuwinpm",
+    "npm"
+  ],
+  "author": "Fikri Yuwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/latifulfikri/fikriyuwi-npm/issues"
+  },
+  "homepage": "https://github.com/latifulfikri/fikriyuwi-npm#readme"
+}
