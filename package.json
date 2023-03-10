@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/latifulfikri/fikriyuwi-npm/issues"
   },
-  "homepage": "https://github.com/latifulfikri/fikriyuwi-npm#readme"
+  "homepage": "https://github.com/latifulfikri/fikriyuwi-npm#readme",
+  "dependencies": {
+    "lodash":"4.17.21"
+  }
 }
